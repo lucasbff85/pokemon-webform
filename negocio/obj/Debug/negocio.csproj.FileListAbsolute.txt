@@ -1,0 +1,9 @@
+D:\PROGRAMACION\MaxiPrograma\CursoC#Nivel3\pokemon-webform\negocio\bin\Debug\negocio.dll
+D:\PROGRAMACION\MaxiPrograma\CursoC#Nivel3\pokemon-webform\negocio\bin\Debug\negocio.pdb
+D:\PROGRAMACION\MaxiPrograma\CursoC#Nivel3\pokemon-webform\negocio\bin\Debug\dominio.dll
+D:\PROGRAMACION\MaxiPrograma\CursoC#Nivel3\pokemon-webform\negocio\bin\Debug\dominio.pdb
+D:\PROGRAMACION\MaxiPrograma\CursoC#Nivel3\pokemon-webform\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+D:\PROGRAMACION\MaxiPrograma\CursoC#Nivel3\pokemon-webform\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+D:\PROGRAMACION\MaxiPrograma\CursoC#Nivel3\pokemon-webform\negocio\obj\Debug\negocio.csproj.Up2Date
+D:\PROGRAMACION\MaxiPrograma\CursoC#Nivel3\pokemon-webform\negocio\obj\Debug\negocio.dll
+D:\PROGRAMACION\MaxiPrograma\CursoC#Nivel3\pokemon-webform\negocio\obj\Debug\negocio.pdb

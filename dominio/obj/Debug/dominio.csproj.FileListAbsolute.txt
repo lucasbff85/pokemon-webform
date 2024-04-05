@@ -1,0 +1,6 @@
+D:\PROGRAMACION\MaxiPrograma\CursoC#Nivel3\pokemon-webform\dominio\bin\Debug\dominio.dll
+D:\PROGRAMACION\MaxiPrograma\CursoC#Nivel3\pokemon-webform\dominio\bin\Debug\dominio.pdb
+D:\PROGRAMACION\MaxiPrograma\CursoC#Nivel3\pokemon-webform\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+D:\PROGRAMACION\MaxiPrograma\CursoC#Nivel3\pokemon-webform\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+D:\PROGRAMACION\MaxiPrograma\CursoC#Nivel3\pokemon-webform\dominio\obj\Debug\dominio.dll
+D:\PROGRAMACION\MaxiPrograma\CursoC#Nivel3\pokemon-webform\dominio\obj\Debug\dominio.pdb

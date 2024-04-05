@@ -29,6 +29,12 @@ namespace negocio
             comando.CommandText = consulta;
         }
 
+        public void setearProcedimiento(string sp)
+        {
+            comando.CommandType = System.Data.CommandType.StoredProcedure;
+            comando.CommandText = sp;   
+        }
+
         public void ejecutarLectura()
         {
             comando.Connection = conexion;
@@ -54,6 +60,23 @@ namespace negocio
             catch (Exception ex)
             {
                 throw ex;
+            }
+        }
+
+        public int ejecutarAccionScalar()
+        {
+            //ExecuteScalar devuelve algo, además de ejecutar la accion
+            comando.Connection = conexion;
+            try
+            {
+                conexion.Open();
+                return int.Parse(comando.ExecuteScalar().ToString());
+                //va a retornar el id del registro que se ingresa en base de datos
+            }
+            catch (Exception ex)
+            {
+
+                throw;
             }
         }
 
